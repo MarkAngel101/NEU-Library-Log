@@ -3,7 +3,7 @@
 A secure, modern, and responsive visitor logging system for the NEU Library. Built with React, Tailwind CSS, and Supabase.
 
 ## 🚀 Live Deployment
-[View Live App](https://ais-pre-64il6ohfsk2nh2t6owyxwh-21623147688.asia-southeast1.run.app)
+[View Live App](https://neu-library-log-lemon.vercel.app/)
 
 ## ✨ Features
 - **Google Authentication**: Secure login via Google OAuth.
