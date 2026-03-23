@@ -1,0 +1,5 @@
+{
+  "name": "NEU Library Visitor Log",
+  "description": "A secure visitor logging system for NEU Library with Google Authentication, role-based access control, and an admin dashboard for statistics.",
+  "requestFramePermissions": []
+}
