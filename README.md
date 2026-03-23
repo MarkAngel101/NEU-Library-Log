@@ -76,7 +76,6 @@ npm run dev
 ## 🔐 Admin Account
 The system identifies the admin based on the email address.
 - **Admin Email**: `jcesperanza@neu.edu.ph`
-- **Test Account**: Use the email above to access admin features.
 
 ## 📝 License
 This project is licensed under the Apache-2.0 License.
